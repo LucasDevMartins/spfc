@@ -1,4 +1,4 @@
-```markdown
+
 ## Aplicação Buscador de Lendas Tricolores: Um Tour Rápido e Divertido!
 
 ### O que faz essa aplicação?
