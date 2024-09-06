@@ -1,3 +1,7 @@
+Abaixo o projeto no ar.
+
+spfc-three.vercel.app
+
 
 ## Aplicação Buscador de Lendas Tricolores: Um Tour Rápido e Divertido!
 
